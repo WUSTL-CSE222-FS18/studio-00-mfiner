@@ -19,17 +19,39 @@ For each item that has multiple ingredients, create a sub list of a few (2-5) of
 
 ***Q2. Create your list here:***
 
+1. Steak
+2. Chicken
+3. Sushi
+  * rice
+  * fish
+  * seaweed
+4. Shrimp
+5. Pizza
+  * dough
+  * tomato sauce
+  * cheese
+
+
 ### Headings
 
 Headings and sub-headings help separate the content of a document.
 
 ***Q3. Add a new third tier heading to this document named "My Heading" here:***
 
+### My Heading
+
+
 ### Code
 
 Markdown is often used to document code.  Consequently, it supports embedding code within documents.
 
 ***Q4. Create a code block below and include a Java `for`-loop that prints numbers from 0 to 10. Be sure to indicate that it's Java, which will cause Java keywords to be highlighted (for example, depending on your configuration `for` may be purple in the preview window; `int` may be orange, etc.):***
+
+```Java
+for (int i=0; i=11; i++) {
+  System.out.println(i);
+}
+```
 
 ## Part 2: What is IoT
 
